@@ -1,0 +1,5 @@
+Requirement already satisfied: Python framework Versions lib python3.6 site-packages
+Requirement user allen Versions lib python3.6 site-packages from fasttext 
+Building wheel for me
+Successfully built fasttext library
+Successfully fasttext

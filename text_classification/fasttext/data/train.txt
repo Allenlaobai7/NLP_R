@@ -1,0 +1,8 @@
+__label__1 , __label__2 Requirement already satisfied  in Library Frameworks Python framework Versions lib python3.6 site-packages from fasttext 
+__label__1 Requirement already satisfied setuptools in in Library Frameworks Python framework Versions lib python3.6 site-packages from fasttext
+__label__1 , __label__2 Requirement already satisfied numpy in in Library Frameworks Python framework Versions lib python3.6 site-packages from from fasttext
+__label__3 Building wheels for collected packages fasttext
+__label__3 Building wheel for fasttext setup.py ... done
+__label__2 Stored in directory: Users Allen Library Caches pip wheels 9f/f0/04/caa82c912aee89ce76
+__label__5 , __label__4 Successfully built fasttext
+__label__4 , __label__5 Successfully installed fasttext
